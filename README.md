@@ -59,40 +59,23 @@ vermez.
 
 ## Dini Duvar Kağıtları ("Daha → Dini Duvar Kağıtları")
 
-Kandil günlerinden ayrı, serbest kategorili genel bir duvar kağıdı galerisi
-— aynı `manifest.json`'ın `"wallpapers"` anahtarı altında yaşar. Buradaki
-kategori id'leri `ReligiousDay.l10nKey` gibi sabit bir listeye bağlı
-DEĞİLDİR — istediğiniz kadar kategori serbestçe eklenebilir, uygulama
-listeyi doğrudan bu anahtarlardan türetir.
+Kandil günlerinden ayrı, kategorisiz/etiketsiz düz bir duvar kağıdı
+galerisi — aynı `manifest.json`'ın `"wallpapers"` anahtarı altında yaşar.
+Tüm görseller tek bir listede, uygulama ekranda hepsini tek bir grid
+olarak gösterir.
 
 ```json
 {
-  "wallpapers": {
-    "esmaul_husna": {
-      "label": "Esmaül Hüsna",
-      "images": ["https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/wallpapers/esmaul_husna/1.jpg"]
-    },
-    "cami": {
-      "label": "Cami",
-      "images": ["..."]
-    },
-    "hat_sanati": {
-      "label": "Hat Sanatı",
-      "images": ["..."]
-    }
-  }
+  "wallpapers": [
+    "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/wallpapers/1.jpg",
+    "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/wallpapers/2.jpg"
+  ]
 }
 ```
 
-- Kategori anahtarı (`esmaul_husna` gibi) serbesttir — yeni bir kategori
-  eklemek için `images/wallpapers/<yeni_kategori>/` klasörü açıp
-  manifestte yeni bir anahtar eklemeniz yeterli, kod tarafında hiçbir
-  değişiklik gerekmez.
-- `label`: zorunlu — ekranda gösterilen başlık (kategori id'si değil, bu
-  kullanılır).
-- Boş bir kategori (`"images": []`) veya hiç eklenmemiş bir kategori
-  listede görünmez (kandil günlerinin aksine burada sabit bir "tüm
-  kategoriler" listesi yok — yalnızca manifestte olanlar gösterilir).
-- Şu an hazır klasörler: `images/wallpapers/esmaul_husna/`,
-  `images/wallpapers/cami/`, `images/wallpapers/hat_sanati/` — dilediğiniz
-  gibi yenilerini ekleyebilirsiniz.
+- Görseli doğrudan `images/wallpapers/` altına numaralı ekleyin (örn.
+  `1.jpg`, `2.jpg`, `3.jpg`...) — alt kategori klasörü yok.
+- Ardından ham (raw) URL'sini `"wallpapers"` dizisine ekleyin, sıra
+  önemli değildir.
+- Dizi boşsa (`"wallpapers": []`) ekranda "Henüz duvar kağıdı eklenmedi"
+  mesajı görünür, hata vermez.
