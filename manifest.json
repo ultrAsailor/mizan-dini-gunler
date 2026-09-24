@@ -1,6 +1,50 @@
 {
+  "religiousDayHicriYilbasi": {
+    "images": [
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/hicri_yilbasi/kart_hicri_yilbasi_01.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/hicri_yilbasi/kart_hicri_yilbasi_02.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/hicri_yilbasi/kart_hicri_yilbasi_03.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/hicri_yilbasi/kart_hicri_yilbasi_04.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/hicri_yilbasi/kart_hicri_yilbasi_05.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/hicri_yilbasi/kart_hicri_yilbasi_06.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/hicri_yilbasi/kart_hicri_yilbasi_07.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/hicri_yilbasi/kart_hicri_yilbasi_08.jpg"
+    ]
+  },
+  "religiousDayAsureGunu": {
+    "images": [
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/asure_gunu/kart_asure_gunu_01.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/asure_gunu/kart_asure_gunu_02.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/asure_gunu/kart_asure_gunu_03.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/asure_gunu/kart_asure_gunu_04.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/asure_gunu/kart_asure_gunu_05.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/asure_gunu/kart_asure_gunu_06.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/asure_gunu/kart_asure_gunu_07.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/asure_gunu/kart_asure_gunu_08.jpg"
+    ]
+  },
+  "religiousDayMevlidKandili": {
+    "images": [
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/mevlid_kandili/kart_mevlid_kandili_01.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/mevlid_kandili/kart_mevlid_kandili_02.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/mevlid_kandili/kart_mevlid_kandili_03.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/mevlid_kandili/kart_mevlid_kandili_04.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/mevlid_kandili/kart_mevlid_kandili_05.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/mevlid_kandili/kart_mevlid_kandili_06.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/mevlid_kandili/kart_mevlid_kandili_07.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/mevlid_kandili/kart_mevlid_kandili_08.jpg"
+    ]
+  },
   "religiousDayRegaibKandili": {
     "images": [
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/regaib_kandili/kart_regaib_kandili_01.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/regaib_kandili/kart_regaib_kandili_02.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/regaib_kandili/kart_regaib_kandili_03.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/regaib_kandili/kart_regaib_kandili_04.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/regaib_kandili/kart_regaib_kandili_05.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/regaib_kandili/kart_regaib_kandili_06.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/regaib_kandili/kart_regaib_kandili_07.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/regaib_kandili/kart_regaib_kandili_08.jpg",
       "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/regaib_kandili/regaip1.png",
       "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/regaib_kandili/regaip2.png",
       "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/regaib_kandili/regaip3.png",
@@ -9,6 +53,89 @@
       "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/regaib_kandili/regaip6.png",
       "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/regaib_kandili/regaip7.png",
       "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/regaib_kandili/regaip8.png"
+    ]
+  },
+  "religiousDayMiracKandili": {
+    "images": [
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/mirac_kandili/kart_mirac_kandili_01.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/mirac_kandili/kart_mirac_kandili_02.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/mirac_kandili/kart_mirac_kandili_03.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/mirac_kandili/kart_mirac_kandili_04.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/mirac_kandili/kart_mirac_kandili_05.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/mirac_kandili/kart_mirac_kandili_06.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/mirac_kandili/kart_mirac_kandili_07.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/mirac_kandili/kart_mirac_kandili_08.jpg"
+    ]
+  },
+  "religiousDayBeratKandili": {
+    "images": [
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/berat_kandili/kart_berat_kandili_01.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/berat_kandili/kart_berat_kandili_02.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/berat_kandili/kart_berat_kandili_03.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/berat_kandili/kart_berat_kandili_04.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/berat_kandili/kart_berat_kandili_05.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/berat_kandili/kart_berat_kandili_06.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/berat_kandili/kart_berat_kandili_07.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/berat_kandili/kart_berat_kandili_08.jpg"
+    ]
+  },
+  "religiousDayRamazanBaslangici": {
+    "images": [
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/ramazan_baslangici/kart_ramazan_baslangici_01.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/ramazan_baslangici/kart_ramazan_baslangici_02.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/ramazan_baslangici/kart_ramazan_baslangici_03.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/ramazan_baslangici/kart_ramazan_baslangici_04.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/ramazan_baslangici/kart_ramazan_baslangici_05.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/ramazan_baslangici/kart_ramazan_baslangici_06.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/ramazan_baslangici/kart_ramazan_baslangici_07.jpg"
+    ]
+  },
+  "religiousDayKadirGecesi": {
+    "images": [
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/kadir_gecesi/kart_kadir_gecesi_01.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/kadir_gecesi/kart_kadir_gecesi_02.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/kadir_gecesi/kart_kadir_gecesi_03.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/kadir_gecesi/kart_kadir_gecesi_04.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/kadir_gecesi/kart_kadir_gecesi_05.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/kadir_gecesi/kart_kadir_gecesi_06.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/kadir_gecesi/kart_kadir_gecesi_07.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/kadir_gecesi/kart_kadir_gecesi_08.jpg"
+    ]
+  },
+  "religiousDayRamazanBayrami": {
+    "images": [
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/ramazan_bayrami/kart_ramazan_bayrami_01.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/ramazan_bayrami/kart_ramazan_bayrami_02.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/ramazan_bayrami/kart_ramazan_bayrami_03.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/ramazan_bayrami/kart_ramazan_bayrami_04.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/ramazan_bayrami/kart_ramazan_bayrami_05.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/ramazan_bayrami/kart_ramazan_bayrami_06.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/ramazan_bayrami/kart_ramazan_bayrami_07.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/ramazan_bayrami/kart_ramazan_bayrami_08.jpg"
+    ]
+  },
+  "religiousDayArefeGunu": {
+    "images": [
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/arefe_gunu/kart_arefe_gunu_01.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/arefe_gunu/kart_arefe_gunu_02.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/arefe_gunu/kart_arefe_gunu_03.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/arefe_gunu/kart_arefe_gunu_04.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/arefe_gunu/kart_arefe_gunu_05.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/arefe_gunu/kart_arefe_gunu_06.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/arefe_gunu/kart_arefe_gunu_07.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/arefe_gunu/kart_arefe_gunu_08.jpg"
+    ]
+  },
+  "religiousDayKurbanBayrami": {
+    "images": [
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/kurban_bayrami/kart_kurban_bayrami_01.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/kurban_bayrami/kart_kurban_bayrami_02.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/kurban_bayrami/kart_kurban_bayrami_03.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/kurban_bayrami/kart_kurban_bayrami_04.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/kurban_bayrami/kart_kurban_bayrami_05.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/kurban_bayrami/kart_kurban_bayrami_06.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/kurban_bayrami/kart_kurban_bayrami_07.jpg",
+      "https://raw.githubusercontent.com/ultrAsailor/mizan-dini-gunler/main/images/kurban_bayrami/kart_kurban_bayrami_08.jpg"
     ]
   },
   "wallpapers": [
